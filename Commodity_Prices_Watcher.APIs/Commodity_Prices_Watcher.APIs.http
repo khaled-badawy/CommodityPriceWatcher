@@ -1,0 +1,6 @@
+@Commodity_Prices_Watcher.APIs_HostAddress = http://localhost:5293
+
+GET {{Commodity_Prices_Watcher.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

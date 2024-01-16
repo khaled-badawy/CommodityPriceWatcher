@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commodity_Prices_Watcher.APIs", "Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.APIs.csproj", "{3C72EBF9-3450-4086-9620-00477FF9C87C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{249412B3-8D7C-45D8-ADC2-B99996C79CDE} = {249412B3-8D7C-45D8-ADC2-B99996C79CDE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commodity_Prices_Watcher.BL", "Commodity_Prices_Watcher.BL\Commodity_Prices_Watcher.BL.csproj", "{249412B3-8D7C-45D8-ADC2-B99996C79CDE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9CF57E42-A689-4B3D-94E1-560553E3E3D1} = {9CF57E42-A689-4B3D-94E1-560553E3E3D1}
+		{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B} = {FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commodity_Prices_Watcher.DAL", "Commodity_Prices_Watcher.DAL\Commodity_Prices_Watcher.DAL.csproj", "{9CF57E42-A689-4B3D-94E1-560553E3E3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vodafone", "VodafoneSMS\Vodafone.csproj", "{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C72EBF9-3450-4086-9620-00477FF9C87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C72EBF9-3450-4086-9620-00477FF9C87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C72EBF9-3450-4086-9620-00477FF9C87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C72EBF9-3450-4086-9620-00477FF9C87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249412B3-8D7C-45D8-ADC2-B99996C79CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249412B3-8D7C-45D8-ADC2-B99996C79CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249412B3-8D7C-45D8-ADC2-B99996C79CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249412B3-8D7C-45D8-ADC2-B99996C79CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF57E42-A689-4B3D-94E1-560553E3E3D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF57E42-A689-4B3D-94E1-560553E3E3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF57E42-A689-4B3D-94E1-560553E3E3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF57E42-A689-4B3D-94E1-560553E3E3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDE1BEE-4A7E-41D8-8B11-775E49AC365B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CF066E-0D48-42B6-98CE-20F8C21B119B}
+	EndGlobalSection
+EndGlobal

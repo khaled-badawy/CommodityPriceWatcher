@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Commodity_Prices_Watcher.APIs.props" />
+</Project>

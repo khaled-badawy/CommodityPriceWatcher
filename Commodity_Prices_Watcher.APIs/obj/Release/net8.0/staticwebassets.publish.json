@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EEp7CWPyVB5YJD2l+5UtaGIIiYjsiDut43rPg1hz1M0=",
+  "Source": "Commodity_Prices_Watcher.APIs",
+  "BasePath": "_content/Commodity_Prices_Watcher.APIs",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

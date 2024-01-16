@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\idsc\Desktop\Publish_CommodityPrices</_PublishTargetUrl>
+    <History>True|2024-01-16T09:30:45.8204529Z;True|2024-01-15T11:44:24.9616220+02:00;True|2024-01-14T14:09:07.8097203+02:00;True|2024-01-14T14:08:43.3090447+02:00;True|2024-01-14T14:06:39.5225336+02:00;True|2024-01-11T11:40:07.1532827+02:00;True|2024-01-11T09:32:34.0489703+02:00;True|2024-01-09T11:37:25.0242050+02:00;True|2024-01-09T11:37:21.2163232+02:00;True|2024-01-09T11:21:46.0282464+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

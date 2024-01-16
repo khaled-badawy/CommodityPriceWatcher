@@ -1,0 +1,15 @@
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\bin\Debug\net7.0\Commodity_Prices_Watcher.DAL.deps.json
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\bin\Debug\net7.0\Commodity_Prices_Watcher.DAL.runtimeconfig.json
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\bin\Debug\net7.0\Commodity_Prices_Watcher.DAL.dll
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\bin\Debug\net7.0\Commodity_Prices_Watcher.DAL.pdb
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.csproj.AssemblyReference.cache
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.AssemblyInfoInputs.cache
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.AssemblyInfo.cs
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.csproj.CoreCompileInputs.cache
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.dll
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\refint\Commodity_Prices_Watcher.DAL.dll
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.pdb
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\Commodity_Prices_Watcher.DAL.genruntimeconfig.cache
+C:\Users\idsc\Desktop\Commodity_Prices\Commodity_Prices_Watcher.APIs\Commodity_Prices_Watcher.DAL\obj\Debug\net7.0\ref\Commodity_Prices_Watcher.DAL.dll
